@@ -1,3 +1,3 @@
 # Welcome to your Lovable project
 
-TODO: Document y;/our project here
+TODO: Document y;/ohur project here
